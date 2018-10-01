@@ -1,0 +1,87 @@
+.pages-home {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+
+  p {
+    font-size: 2.8em;
+    line-height: 1.5;
+
+    &:not(:last-of-type) {
+      margin-bottom: 1em;
+    }
+
+    &:last-of-type {
+      font-size: 1.7em;
+    }
+
+    a {
+      color: $splash;
+      border-bottom: 3px solid transparent;
+      transition: border-bottom 0.4s;
+
+      &:hover {
+        border-bottom: 3px solid $splash;
+      }
+    }
+  }
+
+  @media (max-width: 1550px) {
+    p {
+      font-size: 2.6em;
+
+      &:last-of-type {
+        font-size: 1.5em;
+      }
+    }
+  }
+
+  @media (max-width: 1350px) {
+    p {
+      font-size: 2.3em;
+    }
+  }
+
+  @media (max-width: 1090px) {
+    p {
+      font-size: 2.1em;
+    }
+  }
+
+  @media (max-width: 700px) {
+    p {
+      font-size: 2em;
+
+      &:last-of-type {
+        font-size: 1.3em;
+      }
+    }
+  }
+
+  @media (max-width: 550px) {
+    p {
+      font-size: 1.8em;
+    }
+  }
+
+  @media (max-width: 500px) {
+    position: relative;
+    top: -20px;
+
+    p {
+      font-size: 1.55em;
+
+      &:last-of-type {
+        font-size: 1.1em;
+      }
+    }
+  }
+
+  @media (max-width: 360px) {
+    p {
+      font-size: 1.4em;
+    }
+  }
+}

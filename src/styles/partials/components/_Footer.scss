@@ -1,0 +1,51 @@
+.components-footer {
+  position: fixed;
+  bottom: 0;
+  right: 50%;
+  width: 100%;
+  background-color: $white;
+  transform: translateX(50%);
+  z-index: 9999;
+
+  .wrapper-social {
+    font-size: 1.4em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px 5%;
+
+    a {
+      color: $black;
+      padding: 0.3em;
+      margin-left: 0.7em;
+      transition: color 0.3s;
+
+      &:hover {
+        color: $splash;
+      }
+    }
+  }
+
+  @media (max-width: 500px) {
+    .wrapper-social {
+      font-size: 1.4em;
+      padding-top: 1em;
+      padding-bottom: 1em;
+      display: flex;
+      justify-content: flex-end;
+      padding: 5px 5%;
+
+      a {
+        color: $black;
+        padding: 0.3em;
+        margin-left: 0.9em;
+        transition: color 0.3s;
+
+        &:hover {
+          color: $splash;
+        }
+      }
+    }
+  }
+}
