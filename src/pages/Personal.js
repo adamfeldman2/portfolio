@@ -10,6 +10,17 @@ const Personal = () => {
       </div>
       <div className="wrapper-project">
         <div className="wrapper-image">
+          <img src="https://cdn.tipe.io/5a96f70dc991f100139cbb71/563ff3ce-4580-462f-89ea-1899f1d4c621/rehabit2.jpg" alt="Rehabit" />
+        </div>
+        <div className="wrapper-text">
+          <h2>Rehabit</h2>
+          <p>(Beta Testing Phase) A full-stack application designed to make physiotherapists' lives easier and help them get their patients healthier by making program creation and delivery easy.</p>
+          <p>REACT / NODE.JS / MONGODB / SCSS</p>
+          <a href="https://myrehabit.com" rel="noopener noreferrer" target="_blank">View Live</a>
+        </div>
+      </div>
+      <div className="wrapper-project">
+        <div className="wrapper-image">
           <img src="https://cdn.tipe.io/5a96f70dc991f100139cbb71/2834e0d0-b951-4e76-b4a8-705b7dfeba66/when-pigs-fly-game.jpg" alt="When Pigs Fly" />
         </div>
         <div className="wrapper-text">
