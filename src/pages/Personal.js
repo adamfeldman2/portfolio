@@ -89,10 +89,10 @@ const Personal = () => {
         </div>
         <div className="wrapper-text">
           <h2>The Home Page</h2>
-          <p>theHomePage.ca is a JavaScript web app, powered by the Weather Underground API. Save theHomePage.ca as your
+          <p>The Home Page is a JavaScript web app, powered by the Weather Underground API. Save The Home Page as your
         homepage to enjoy a more beautiful way to begin your browsing experience. </p>
           <p>HTML / CSS / API / JAVASCRIPT</p>
-          <a href="http://thehomepage.ca/" rel="noopener noreferrer" target="_blank">View Live</a>
+          <a href="https://thehomepage.surge.sh" rel="noopener noreferrer" target="_blank">View Live</a>
         </div>
       </div>
       <div className="wrapper-project">
