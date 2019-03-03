@@ -10,7 +10,7 @@ const Contact = () => {
         <p>I'm probably somewhere here</p>
         <img src="https://cdn.tipe.io/5a96f70dc991f100139cbb71/d6c8789f-6df7-43ba-aa98-fe7f44d8e898/earth.gif" alt="Spinning Globe" />
       </div>
-      <p>...but if you can't find me, you can send me an email at <a href="mailto:feldman238@gmail.com">feldman238@gmail.com</a> or call me at <a href="tel:647-860-6767">647-860-6767</a>.</p>
+      <p>...but if you can't find me, you can send me an email at <a href="mailto:feldman238@gmail.com">feldman238@gmail.com</a>.</p>
     </div>
   );
 }
