@@ -32,7 +32,7 @@ const Freelance = () => {
           React, ensures speedy route-transitions. As well, the RSVP portion of the site was built with Node.js and MongoDB, to
       store all of the guest's RSVPs.</p>
           <p>REACT / NODE.JS / MONGODB / CSS</p>
-          <a href="https://vivianaandadam.com" rel="noopener noreferrer" target="_blank">View Live</a>
+          <a href="https://vivianaandadam.surge.sh" rel="noopener noreferrer" target="_blank">View Live</a>
         </div>
       </div>
 

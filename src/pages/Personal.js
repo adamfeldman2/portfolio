@@ -42,7 +42,7 @@ const Personal = () => {
             hacker's command line, which will hopefully fool your boss into thinking you're working, when you're really
         chatting with fellow developers. </p>
           <p>SOCKET.IO / NODE.JS / REACT / SCSS</p>
-          <a href="https://commandlinechat.com" rel="noopener noreferrer" target="_blank">View Live</a>
+          <a href="https://command-line-chat-app.herokuapp.com/" rel="noopener noreferrer" target="_blank">View Live</a>
         </div>
       </div>
       <div className="wrapper-project">
