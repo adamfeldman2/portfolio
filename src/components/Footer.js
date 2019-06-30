@@ -4,6 +4,9 @@ const Footer = () => {
   return (
     <footer className="components-footer wrapper">
       <div className="wrapper-social">
+        <a href="https://blog.adamcodes.ca">
+          BLOG
+        </a>
         <a href="https://github.com/adamfeldman2" rel="noopener noreferrer" target="_blank">
           <i className="fa fa-github" aria-hidden="true"></i>
         </a>
