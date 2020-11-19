@@ -1,3 +1,16 @@
 .pages-playground {
   margin-top: 90px;
+
+  input,
+  text,
+  textarea,
+  select {
+    font-size: 15.5px;
+  }
+
+  label,
+  button {
+    font-weight: bold;
+    font-size: 17px;
+  }
 }

@@ -780,3 +780,12 @@ body {
 
 .pages-playground {
   margin-top: 90px; }
+  .pages-playground input,
+  .pages-playground text,
+  .pages-playground textarea,
+  .pages-playground select {
+    font-size: 15.5px; }
+  .pages-playground label,
+  .pages-playground button {
+    font-weight: bold;
+    font-size: 17px; }
