@@ -7,7 +7,7 @@ const Home = () => {
       <p>
         I'm a full stack web developer working at{" "}
         <a
-          href="https://www.epiloguewills.com/"
+          href="https://epiloguewills.com/"
           rel="noopener noreferrer"
           target="_blank"
         >

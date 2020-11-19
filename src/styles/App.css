@@ -777,3 +777,15 @@ body {
   @media (max-width: 360px) {
     .pages-home p {
       font-size: 1.4em; } }
+
+.pages-playground {
+  margin-top: 90px; }
+  .pages-playground input,
+  .pages-playground text,
+  .pages-playground textarea,
+  .pages-playground select {
+    font-size: 15.5px; }
+  .pages-playground label,
+  .pages-playground button {
+    font-weight: bold;
+    font-size: 17px; }
