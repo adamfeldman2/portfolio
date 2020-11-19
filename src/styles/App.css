@@ -777,3 +777,6 @@ body {
   @media (max-width: 360px) {
     .pages-home p {
       font-size: 1.4em; } }
+
+.pages-playground {
+  margin-top: 90px; }
